@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Lili</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fbe4e6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            max-width: 600px;
+            text-align: center;
+        }
+        h1 {
+            color: #e74c3c;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Para Minha Querida Lili</h1>
+        <p>Querida Lili,</p>
+        <p>Quero aproveitar este momento para dizer o quanto você é especial para mim. Desde o dia em que nos conhecemos, minha vida mudou completamente. Você trouxe alegria, amor e felicidade para os meus dias, e cada momento ao seu lado é uma lembrança preciosa que guardo no meu coração.</p>
+        <p>Seu sorriso ilumina meu mundo, e sua presença me faz sentir a pessoa mais sortuda do mundo. Quero agradecer por todo o amor, carinho e apoio que você me dá. Espero que este site possa expressar um pouco do quanto eu te amo e valorizo nossa relação.</p>
+        <p>Com todo o meu amor,</p>
+        <p>[jake]</p>
+        <footer>&copy; 2024 [jake]. Todos os direitos reservados.</footer>
+    </div>
+</body>
+</html>
